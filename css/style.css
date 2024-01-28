@@ -572,12 +572,12 @@ a:focus {
 .doctor_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #1fab89;
+  background-color: #f4a03d;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #1fab89;
+  border: 1px solid #f4a03d;
 }
 
 .doctor_section .btn-box a:hover {
