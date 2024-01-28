@@ -307,12 +307,12 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #ffffff;
-  color: #62d2a2;
+  background-color: #f4a03d;
+  color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #ffffff;
+  border: 1px solid #f4a03d;
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
