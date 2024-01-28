@@ -1,1 +1,1 @@
-# exercise_for_micromaster-in-web-design_course
+HTML Exercise for MicroMaster in Web Design & Development Course
